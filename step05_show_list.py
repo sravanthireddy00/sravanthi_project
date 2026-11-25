@@ -19,7 +19,7 @@ def student_row(s):
     # s is one student, like {"name": "Ravi", "marks": 90}
      #✍️ Write this line:
        return "<li>" + s["name"] + " - " + str(s["marks"]) + "</li>"
-    #return None  # 👈 YOUR CODE HERE (replace this line)
+    #return  # 👈 YOUR CODE HERE (replace this line)
 
 
 # ---------- Do not change anything below this line ----------
